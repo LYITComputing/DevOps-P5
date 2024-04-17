@@ -4,3 +4,5 @@ Example on how to test and build a Java project using Gradle and GitHub actions.
 
 * [Building and testing Java with Gradle](https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-java-with-gradle)
 * [Executing Gradle builds on GitHub actions](https://docs.gradle.org/current/userguide/github-actions.html)  
+
+[![Build and release](https://github.com/LYITComputing/DevOps-P5/actions/workflows/gradleBuild.yml/badge.svg)](https://github.com/LYITComputing/DevOps-P5/actions/workflows/gradleBuild.yml)
